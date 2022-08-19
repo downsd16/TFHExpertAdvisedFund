@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 15</title>
+    <defs>
+        <path d="M8.66666667,4.33333333 C8.66666667,4.65833333 8.45,4.875 8.125,4.875 L4.875,4.875 L4.875,8.125 C4.875,8.45 4.65833333,8.66666667 4.33333333,8.66666667 C4.00833333,8.66666667 3.79166667,8.45 3.79166667,8.125 L3.79166667,4.875 L0.541666667,4.875 C0.216666667,4.875 0,4.65833333 0,4.33333333 C0,4.00833333 0.216666667,3.79166667 0.541666667,3.79166667 L3.79166667,3.79166667 L3.79166667,0.541666667 C3.79166667,0.216666667 4.00833333,0 4.33333333,0 C4.65833333,0 4.875,0.216666667 4.875,0.541666667 L4.875,3.79166667 L8.125,3.79166667 C8.45,3.79166667 8.66666667,4.00833333 8.66666667,4.33333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Proposals----Super-Admin-View" transform="translate(-487.000000, -341.000000)">
+            <g id="Group-15" transform="translate(487.000000, 341.000000)">
+                <circle id="Oval" stroke="#000000" cx="8.5" cy="8.5" r="8"></circle>
+                <g id="feather-icon/plus" transform="translate(4.166667, 4.166667)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Icon-Color" mask="url(#mask-2)" fill="#000000">
+                        <g transform="translate(-2.166667, -2.166667)" id="Shape">
+                            <rect x="0" y="0" width="13" height="13"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

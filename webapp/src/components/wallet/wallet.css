@@ -1,0 +1,25 @@
+.walletAddress {
+    font-size: 2vh;
+    color: white;
+    margin: 0 1vw 0 1vw;
+}
+
+.walletIcon {
+    height: 4vh;
+    width: 4vh;
+    margin: 0 0 0 1vw;
+    background: white;
+    border-radius: 50%;
+}
+
+.container {
+    width: 20vw;
+    height: 7.5vh;
+    position: absolute;
+    right: 7%;
+    top: 15%;
+    z-index: +1;
+    display: flex;
+    align-items: center;
+    margin: 0 0 3vh 2%;
+}

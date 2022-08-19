@@ -1,0 +1,61 @@
+.header {
+    width: 100%;
+    display: flex;
+    margin: 2vh 0 2vh 1%;
+}
+
+.headerText {
+    font-family: "DM Sans";
+    font-size: 2vw;
+    color: #2425db;
+    justify-content: left;
+    align-items: left;
+    margin: 0px;
+    margin: 0 4.5vw 0 1vw;
+}
+
+.wrapperBody{
+    width: 100%;
+    height: 70%;
+}
+
+.scrollable-terms {
+    background-color: #f7f7f7;
+    height: 90%;
+    width: auto;
+    overflow: auto;
+    margin: 0 2vw 0 2vw;
+    text-align: justify;
+    padding: 0 1vw 0 1vw;
+}
+
+button.submit {
+    width: 40%;
+    height: 5vh;
+    border-radius: 5px;
+    margin: 5% 0 0 10%;
+    background-color: #2425db;
+    border-color: #2425db;
+    color: white;
+}
+
+button.back {
+    width: 40%;
+    height: 5vh;
+    border-radius: 5px;
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.termsText {
+    font-family: "DM Sans";
+    font-size: 1vw;
+}
+
+.inputContainer {
+    width: 50%;
+    height: 20%;
+    margin: 1vh 2vw 1vh auto;
+    text-align: right;
+}

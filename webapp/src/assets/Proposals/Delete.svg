@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Button/Delete</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="29" height="29"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="29" height="29" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Proposals----Super-Admin-View" transform="translate(-481.000000, -406.000000)">
+            <g id="Button/Delete" transform="translate(481.000000, 406.000000)">
+                <use id="Path" stroke="#B8B8B8" mask="url(#mask-2)" stroke-width="2.79999995" fill-opacity="0" fill="#FFFFFF" stroke-dasharray="0,0" xlink:href="#path-1"></use>
+                <g id="Icon/System/Delete" transform="translate(10.604919, 10.605011)">
+                    <path d="M2.39508057,2.39498901 L18.3950806,2.39498901 L18.3950806,18.394989 L2.39508057,18.394989 L2.39508057,2.39498901 Z" id="Icon/System/Delete-(Background)"></path>
+                    <g id="-Round-/-Navigation-/-close">
+                        <path d="M18.3950806,2.39498901 L18.3950806,18.394989 L2.39508057,18.394989 L2.39508057,2.39498901 L18.3950806,2.39498901 Z" id="Path"></path>
+                        <path d="M7.65499977,0.201666644 L4.39499998,3.45499942 L1.13499995,0.194999965 C0.874999968,-0.0649999882 0.454999967,-0.0649999882 0.194999986,0.194999965 C-0.0649999953,0.454999917 -0.0649999953,0.874999873 0.194999986,1.13499983 L3.4549998,4.3949995 L0.194999986,7.65499894 C-0.0649999953,7.9149989 -0.0649999953,8.33499875 0.194999986,8.59499871 C0.454999967,8.85499866 0.874999968,8.85499866 1.13499995,8.59499871 L4.39499998,5.33499895 L7.65499977,8.59499871 C7.91499976,8.85499866 8.33499966,8.85499866 8.59499964,8.59499871 C8.85499962,8.33499875 8.85499962,7.9149989 8.59499964,7.65499894 L5.33499953,4.3949995 L8.59499964,1.13499983 C8.84833296,0.881666533 8.84833296,0.454999937 8.59499964,0.201666644 C8.33499966,-0.058333309 7.91499976,-0.058333309 7.65499977,0.201666644 Z" id="🔹-Icon-Color" fill="#F22C2C"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

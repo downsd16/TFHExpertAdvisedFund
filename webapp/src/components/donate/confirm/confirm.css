@@ -1,0 +1,97 @@
+.proposalContainer {
+    width: 95%;
+    height: 40%;
+    margin: 1vh 1vw 1vh 0.25vw;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+}
+
+.headerText {
+    font-family: "DM Sans";
+    font-size: 2vw;
+    color: #2425db;
+    margin: 0px;
+}
+
+.proposalText {
+    font-family: "DM Sans";
+    font-size: 1.5vw;
+    color: #858997;
+    margin: 0 0 0 2%;
+    width: 90%;
+}
+
+.preferenceIcon {
+    height: auto;
+    width: 8vw;
+    max-height: 10vh;
+    margin: 0 0 0 0;
+}
+
+.smallerText{
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 1vw;
+    color: #858997;
+    margin: 0 5% 5vh 5%;
+    width: 90%;
+}
+
+.amountInput {
+    width: 50%;
+    margin: 1vh 0 1vh 0;
+    font-size: 2vh;
+    border-radius: 1vh;
+}
+
+.currIcon {
+    height: 3vh;
+    margin: 0 1vw 0 1vw;
+}
+
+.confirmHeader {
+    width: 80%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 1vh 1vw 1vh 0.25vw;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+    padding: 0 0.5vw 0 0.5vw;
+}
+
+.paymentOption {
+    width: 80%;
+    height: 30%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 1vh 1vw 1vh 0.25vw;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+    padding: 2vh 0.5vw 2vh 0.5vw;
+}
+
+.paymentOptionSelected {
+    width: 80%;
+    height: 30%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 1vh 1vw 1vh 0.25vw;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+    border-color: #2425db;
+    padding: 2vh 0.5vw 2vh 0.5vw;
+}
+
+button.submit {
+    width: 50%;
+    height: 5vh;
+    border-radius: 5px;
+    float: right;
+    margin: 0 15% 0 0;
+    background-color: #2425db;
+    border-color: #2425db;
+    color: white;
+}

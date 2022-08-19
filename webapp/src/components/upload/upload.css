@@ -1,0 +1,14 @@
+.uploadContainer {
+    height: 30vh;
+    width: auto;
+    margin: 0 2vw 0 0;
+    border: thick black dotted;
+    border-radius: 10px;
+}
+
+.uploadButton {
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

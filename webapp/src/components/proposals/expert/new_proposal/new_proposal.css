@@ -1,0 +1,99 @@
+.header {
+    width: 20%;
+    display: flex;
+    margin: 2vh 0 2vh 1%;
+}
+
+.headerText {
+    font-family: "DM Sans";
+    font-size: 2vw;
+    color: #2425db;
+    justify-content: left;
+    align-items: left;
+    margin: 0px;
+}
+
+.wrapperBody{
+    width: 100%;
+    height: 80%;
+}
+
+.leftForms {
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    margin-left: 0 10% 0 10%;
+    vertical-align: top;
+}
+
+.rightForms {
+    width: 50%;
+    height: 100%;
+    margin-left: 0 10% 0 10%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+input, select, option {
+    font-size: 1.5vw;
+    width: 90%;
+    display: block;
+    font-family: "DM Sans";
+    color: #858997;
+}
+
+label {
+    width: 100%;
+    font-size: 1.5vw;
+    font-family: "DM Sans";
+    color: #858997;
+}
+
+.inputContainer {
+    width: 90%;
+    height: 20%;
+    margin: 0 5% 5vh 5%;
+    text-align: left;
+}
+
+form {
+    height: 100%;
+}
+
+.descForm {
+    height: auto;
+}
+
+button.submit {
+    width: 40%;
+    height: 5vh;
+    border-radius: 5px;
+    margin: 5% 0 0 10%;
+    background-color: #2425db;
+    border-color: #2425db;
+    color: white;
+}
+
+button.back {
+    width: 40%;
+    height: 5vh;
+    border-radius: 5px;
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.arrow {
+    width: 2.5vw;
+    height: 2.5vw;
+    transform: rotate(90deg);
+    align-items: left;
+    justify-content: left;
+}
+
+.subheader {
+    width: 100%;
+    font-size: 1.5vw;
+    font-family: "DM Sans";
+    color: #858997;
+}

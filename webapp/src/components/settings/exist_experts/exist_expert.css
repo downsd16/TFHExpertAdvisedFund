@@ -1,0 +1,107 @@
+.header {
+    margin: 2% 0 2% 2%;
+}
+
+.wrapperBody{
+    width: 100%;
+    height: 80%;
+}
+
+.expertList {
+    width: 60%;
+    height: 100%;
+    display: inline-block;
+    margin: 2vh 1vw 0 1vw;
+    vertical-align: top;
+}
+
+.expert {
+    height: 20%;
+    width: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 0 0 3vh 2%;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+}
+
+.expertDetails {
+    width: 50%;
+}
+
+.option {
+    height: 15%;
+    width: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 1vh 0 3vh 2%;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+}
+
+.adminOptions {
+    width: 30%;
+    height: 100%;
+    display: inline-block;
+    margin: 2vh 2vw 0 1vw;
+}
+
+.expertSearch {
+    height: 10%;
+    width: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 1vh 0 3vh 2%;
+    padding: 0 0 0 1vw;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+}
+
+.switchContainer {
+    width: 5vw;
+    text-align: center;
+    margin: 0 1vw 0 auto;
+}
+
+.expertHeadshot {
+    height: 8vh;
+    margin: 0 2vw 0 1vw;
+}
+
+.optionIcon {
+    height: 5vh;
+    margin: 1vh 2vw 1vh 1vw;
+}
+
+.expertText {
+    font-family: "DM Sans";
+    font-size: 1.25vw;
+    color: #858997;
+    margin: 0;
+}
+
+.optionSubText {
+    font-family: "DM Sans";
+    font-size: 0.75vw;
+    color: #858997;
+    margin: 0;
+}
+
+.locationIMG {
+    height: 2vh;
+    margin: 0 0.5vw 0 0;
+}
+
+.location {
+    height: 10%;
+    width: 80%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 0;
+    border-radius: 12.5px;
+    background-color: #F7F7F7;
+}

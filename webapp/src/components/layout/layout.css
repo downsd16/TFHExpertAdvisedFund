@@ -1,0 +1,69 @@
+.wrapperMenu{
+    width: 22%;
+    height: 53vh;
+    position: absolute;
+    left: 0;
+    top: 12.5vh;
+    z-index: +1;
+}
+
+.wrapperHeader {
+    width: 100%;
+}
+
+.wrapperNavbar {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 30%;
+    right: 0;
+    left: 5%
+}
+
+.wrapperNavOption {
+    width: 90%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 3vh;
+}
+
+.logo{
+    max-width: 100%;
+    max-height: auto;
+    margin: 0 0 0 5px;
+}
+
+.buttonImg {
+    width: 2.5vw;
+    height: auto;
+}
+
+h1 {
+    font-family: "DM Sans";
+    font-size: 1.5vw;
+    color: #2425db;
+    margin: 0px;
+}
+
+h3 {
+    font-family: "DM Sans";
+    font-size: 8pt;
+    color: #2425db;
+    margin: 0px;
+}
+
+.menuItem {
+    font-family: "DM Sans";
+    color: #858997;
+    margin: 0 15% 0 10%;
+    width: auto;
+}
+
+.arrow {
+    width: 1.5vw;
+    height: 1.5vw;
+    transform: rotate(-90deg);
+    margin-left: auto;
+    display: block; 
+}
