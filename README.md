@@ -8,9 +8,9 @@ number of votes), the funds are distributed to the target organizations' address
 
 Tokens for Humanity Greenhouse '22 Team:
 
-Frederick Brien (TFH Co-Founder)<br>
-Bryce Thomas (TFH Co-Founder)<br>
-Devin Downs (Developer)<br>
+[Frederick Brien (TFH Co-Founder)](https://www.linkedin.com/in/frederickbrien/)<br>
+[Bryce Thomas (TFH Co-Founder)](https://www.linkedin.com/in/brycepthomas/)<br>
+[Devin Downs (Developer)](https://www.linkedin.com/in/devindowns5/)<br>
 
 # Demo Setup
 Contracts:
